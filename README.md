@@ -18,7 +18,7 @@ Motivated by questions regarding player safety in the NFL, I analyzed injury dat
 *Below is the Executive Dashboard visualizing the relationship between Position Risk (Left) and Helmet Brand (Center) and a Pie chart of the positions (Right)*
 
 ![NFL Analysis Dashboard](dashboard_screenshot.png)
-*(Note: Upload your screenshot and name it dashboard_screenshot.png)*
+
 
 ## 🔎 Analysis & SQL Methodology
 To derive these insights, I constructed a normalized relational database from scratch.
