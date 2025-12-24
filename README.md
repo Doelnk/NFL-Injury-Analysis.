@@ -15,7 +15,7 @@ Motivated by questions regarding player safety in the NFL, I analyzed injury dat
 * **Excel:** Pivot Tables, Data Visualization, and Executive Dashboard design.
 
 ## 📊 The Dashboard
-*Below is the Executive Dashboard visualizing the relationship between Position Risk (Left) and Helmet Brand (Center).*
+*Below is the Executive Dashboard visualizing the relationship between Position Risk (Left) and Helmet Brand (Center) and a Pie chart of the positions (Right)*
 
 ![NFL Analysis Dashboard](dashboard_screenshot.png)
 *(Note: Upload your screenshot and name it dashboard_screenshot.png)*
